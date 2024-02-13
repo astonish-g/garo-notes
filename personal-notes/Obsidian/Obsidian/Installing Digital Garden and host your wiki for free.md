@@ -5,6 +5,10 @@ dg-publish: true
 - A Github account
 - A Vercel account
 - Digital Garden plug-in for Obsidian
+
+>[!warning] Put .obsidian folder in .gitignore
+>Remember to put the .obsidian/ folder into the .gitignore file in the root directory of your git repository, or else, your token will be pushed to the GitHub repository and the secret token will be compromised and shared with public.
+
 ##### How to make this work?
 1. First of all install the Digital Garden plug-in in Obsidian from the Community Plug-ins section.
 2. Next you will need a GitHub account. If you don't have this, create one.
