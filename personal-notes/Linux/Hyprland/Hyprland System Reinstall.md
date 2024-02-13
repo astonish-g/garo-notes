@@ -1,0 +1,40 @@
+---
+dg-publish: true
+---
+##### Things to backup
+
+- [ ] .config files folder
+    - [x] Hyprland config
+    - [x] Alacritty config
+    - [x] Better Discord config
+    - [x] Blender config
+    - [ ] Code config
+    - [x] Kitty config
+    - [ ] Nano config
+    - [x] Nvim config
+    - [ ] Obsidian config
+    - [x] Ulauncher config
+    - [x] Waybar config
+    - [ ] Xfce config
+- [x] .local files
+    - [x] fonts
+    - [x] icons
+- [ ] .g-scripts
+- [x] .themes
+- [x] .vscode
+- [ ] Firefox backup / .mozilla
+- [ ] .oh-my-bash
+- [ ] Obsidian backup
+- [ ] Documents
+	- [ ] Blender Themes
+	- [ ] garo-bash
+	- [ ] garo-obsidian-notes
+	- [ ] Notes
+- [ ] Pictures
+	- [ ] catppuccin-wallpapers
+	- [ ] wallpaper
+- [ ] Github
+- [ ] .fehbg
+- [ ] .bashrc
+- [ ] .nanorc
+- [ ] other user files from everi3, hyprland partition and nordi3

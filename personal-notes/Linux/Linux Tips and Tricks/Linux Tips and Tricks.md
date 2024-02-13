@@ -1,0 +1,17 @@
+---
+dg-publish: true
+---
+-  [[Tricks for the Apps]]
+- [[Fun terminal apps]]
+- [[Apps to use]] **- this is old**
+- [[Set-up RClone for Onedrive]]
+- [[How to create .desktop entry for AppImages?]]
+- [[How to install Blender manually in Linux?]]
+- [[Logitech Buttons ID Linux]]
+- [[Grub Fix]]
+- [[EndeavourOS Fix Grub]]
+- [[GTK Themeing]]
+- [[Fix polybar currency error]]
+- [[ZSH Shell Notes]]
+- [[How to add transparency in NVChad]]
+- [[How to check the battery of bluetooth device?]]
