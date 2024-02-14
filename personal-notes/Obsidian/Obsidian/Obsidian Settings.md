@@ -65,7 +65,7 @@ Below are the *Obsidian Settings* that I am currently using:
 		- ###### CSS snippets:
 			- *obsidian (my CSS snippet):* ==true==
 				Look at [[Obsidian .css snippets|my CSS snippet]] for more info on my CSS snippet.
-	- ##### [[Obsidian Hotkeys|Hotkeys]]
+	- ##### [[Obsidian Custom Hotkeys|Hotkeys]]
 	- ##### [[Used plug-ins|Core plugins]]
 		- *Plug-in options are set to* ==default== but I have enabled some more plug-ins. You can see them by clicking on the *Core plugins* link above.
 	- ##### [[Used plug-ins|Community plugins]]

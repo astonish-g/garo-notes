@@ -10,3 +10,4 @@ Here you will see all the steps to my settings to imitate the same interface, ho
 - [[Hider plug-in settings]]
 - [[Catppuccin Mocha Theme Settings]]
 - [[Obsidian .css snippets]]
+- [[How to set file properties visible ONLY on the right panel?]]
