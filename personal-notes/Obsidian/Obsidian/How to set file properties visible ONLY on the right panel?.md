@@ -1,7 +1,8 @@
 ---
 dg-publish: true
 ---
-> [!tip] By default, in Obsidian, the file properties appears on top of your each note, but it looks ugly in my opinion. So if you want, you can put that to hidden and make it only visible on the right side panel.
+> [!tip] Obsidian File Properties
+> By default, in Obsidian, the file properties appears on top of your each note, but it looks ugly in my opinion. So if you want, you can put that to hidden and make it only visible on the right side panel.
 
 ##### How to do it?
 1. Go to **Obsidian settings > Editor** and set the value of:
