@@ -11,9 +11,10 @@ dg-publish: true
 - Once applied, from the *Appearance* menu, whenever you make a change to the .css file and save it, it will be updated immediatly.
 
 ##### My Hotkeys (some are custom hotkeys):
-- **Alt+B =** Hide or show sidebar. Expand or Collapse
+- **Alt+B =** Hide or show left sidebar. Expand or Collapse
 - **ALT+T =** Hide or show tab bar.
 - **ALT+SHIFT+T =** Hide or show the title bar. 
+- **ALT+Right Arrow =** Hide or show right sidebar. Expand or collapse.
 - **ALT+S =** Hide or show status bar.
 - **CTRL+B =** Toggle bold.
 - **CTRL+Right Arrow/Left Arrow =** Brings the cursor to the end of the next word.
@@ -37,9 +38,6 @@ dg-publish: true
 1. Press *CTRL+P* to open the command mode
 2. Type *"Move current tab to a new window"*
 3. Hit enter.
-##### Used plug-ins:
-- **Hider**
-- **Style settings**
 
 ##### How to type /<example/> type of words in Obsidian?
 When you type **\<** and **\>** symbols in Obsidian, they will be considered as html tags and they won't be rendered. So to render them correctly to use in your notes, you should escape them to register them as normal characters. 
