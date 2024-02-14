@@ -1,0 +1,116 @@
+---
+dg-publish: true
+---
+Below are the *Obsidian Settings* that I am currently using:
+- **Options:**
+	- **General:**
+		- *Automatic updates:* ==true==
+		- *Language:* ==English==
+	- **Editor:**
+		- *Always focus new tabs:* ==true==
+		- *Default view for new tabs:* ==Reading View==
+		- *Default editing mode:* ==Live Preview==
+		- *Show editing mode in status bar:* ==true==
+		- **Display:**
+			- *Readable line length:* ==true==
+			- *Strict line breaks:* ==false==
+			- *Properties in document:* ==false==
+			- *Fold heading:* ==true==
+			- *Fold indent:* ==true==
+			- *Show line number:* ==false==
+			- *Show indentation guides:* ==true==
+			- *Right-to-left (RTL):* ==false==
+		- **Behavior:**
+			- *Spellcheck:* ==false==
+			- *Spellcheck language:* ==-==
+			- *Auto pair brackets:* ==false==
+			- *Auto pair Markdown syntax:* ==false==
+			- *Smart indent lists:* ==true==
+			- *Indent using tabs:* ==true==
+			- *Tab indent size:* ==4==
+		- **Advanced:**
+			- *Auto convert HTML:* ==true==
+			- *Vim key bindings:* ==false==
+	- **Files and links:**
+		- *Confirm file deletion:* ==true==
+		- *Deleted fles:* ==Move to system trash==
+		- *Automatically update internal links:* ==true==
+		- *Default location for new notes:* ==Vault folder==
+		- *New link format:* ==Shortest path when possible==
+		- *Use \[[Wiklinks\]]:* ==true==
+		- *Detect all file extensions:* ==false==
+		- *Default location foir new attachments:* ==Vault folder==
+		- *Excluded files:* ==-==
+		- *Override config folder:* ==-==
+	- **Appearance:**
+		- *Base color scheme:* ==Adapt to system==
+		- *Accent color:* ==rgb(91, 110, 143)==
+		- *Themes:* ==Catpuccin==
+		- **Font:**
+			- *Interface font:* ==default==
+			- *Text font:* ==Open Sans==
+			- *Monospace font:* ==Maple Mono==
+			- *Font size:* ==20==
+			- *Quick font size adjustment:* ==true==
+		- **Interface:**
+			- *Show inline title:* ==true==
+			- *Show tab title bar:* ==true==
+			- *Ribbon menu:* ==default==
+		- **Advanced:** 
+			- *Zoom level:* ==100%==
+			- *Native menus:* ==false==
+			- *Window frame style:* ==Hidden (default)==
+			- *Custom app icon:* ==- (default)==
+			- *Hardware acceleration:* ==true==
+		- **CSS snippets:**
+			- *obsidian (my CSS snippet):* ==true==
+				Look at [[Obsidian .css snippets|my CSS snippet]] for more info on my CSS snippet.
+	- [[Obsidian Hotkeys|Hotkeys]]
+	- [[Used plug-ins|Core plugins]]
+		- *Plug-in options are set to* ==default== but I have enabled some more plug-ins. You can see them by clicking on the *Core plugins* link above.
+	- [[Used plug-ins|Community plugins]]
+		- *Restricted mode:* ==off==
+		- *Debug startup time:* ==false==
+		- **Installed plugins:**
+			- *Digital Garden:* ==true==
+			- *Emoji Magic:* ==true==
+			- *Hider:* ==true==
+			- *Snippet Commands:* ==true==
+			- *Style Settings:* ==true==
+- **Core Plugins:**
+	- **Backlinks:** 
+		- *Backlink in document:* ==false==
+	- **Canvas:** 
+		- *Default location for new canvas files:* ==Vault folder==
+		- *Default mouse wheel behavior:* ==Pan==
+		- *Default CTRL + Drag behavior:* ==Show menu==
+		- *Display card label:* ==Always==
+		- *Snap to grid:* ==true==
+		- *Snap to objects:* ==true==
+		- *Zoom threshold for hiding card content:* ==default==
+	- **Command palette:**
+		- *Pinned commands:* ==Digital Garden: Add publish flag==
+	- **Daily notes:**
+		- *Everything is set to* ==default==
+	- **File recovery:**
+		- *Everything is set to* ==default==
+		- *Snapshot interval:* ==5==
+		- *History length:* ==7==
+	- **Note composer:**
+		- *Everything is set to* ==default==
+		- *Confrm file merge:* ==true==
+	- **Page preview:** 
+		- *Everything is set to* ==default==
+		- *Search, Backlinks, and Outgoing links:* ==true==
+		- *Reading view:* ==false==
+		- *Editing view:* ==true==
+		- *Files:* ==true==
+		- *Bookmarks:* ==true==
+		- *Outline:* ==true==
+		- *Graph view:* ==true==
+	- **Quick switcher:**
+		- *Everything is set to* ==default==
+		- *Show existing only:* ==false==
+		- *Show attachments:* ==true==
+	- **Templates:**
+		- *Everything is set to* ==default==
