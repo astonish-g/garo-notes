@@ -1,5 +1,5 @@
 ---
 dg-publish: true
 ---
-
-[[Obsidian update script explained]]
+- [[My scripts]]
+- [[Obsidian update script explained]]

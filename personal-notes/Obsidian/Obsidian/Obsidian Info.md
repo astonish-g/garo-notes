@@ -22,6 +22,7 @@ dg-publish: true
 - **CTRL+E =** To toggle between reading and editing mode.
 - **CTRL+O =** For quick switching between notes. Press **ctrl+enter** to open on a new tab.
 - **ALT+E =** Open Emoji toolbar 😉
+- **CTRL+G=** Open graph view
 ##### Tab Hotkeys and Options:
 - **CTRL+enter =** To open a note in a new tab when in quick switcher.
 - **Drag the tab outside of the window** to open it in a new window.

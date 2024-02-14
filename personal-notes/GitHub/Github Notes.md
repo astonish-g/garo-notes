@@ -6,3 +6,5 @@ Here you can find the notes about Github:
 - [[Fine grained token]]
 - [[Setting up .gitignore]]
 - [[Setting up .env]]
+- [[Github push script - 'gitup']]
+- [[Github pull script - 'gitdown']]

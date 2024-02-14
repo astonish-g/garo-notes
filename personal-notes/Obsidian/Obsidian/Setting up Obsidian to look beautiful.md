@@ -9,5 +9,7 @@ Here you will see all the steps to my settings to imitate the same interface, ho
 - [[Used plug-ins]]
 - [[Hider plug-in settings]]
 - [[Catppuccin Mocha Theme Settings]]
-- [[Obsidian .css snippets]]
+- [[General CSS snippets]]
+- [[Hide-top-bar CSS snippet]]
 - [[How to set file properties visible ONLY on the right panel?]]
+- [[Obsidian Custom Hotkeys|Custom Hotkeys]]
