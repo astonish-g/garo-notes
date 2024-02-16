@@ -3,6 +3,7 @@ dg-publish: true
 ---
 >[!tip] Below are the snippets that I am using right now:
 >- Hides minimize/maximize and close buttons.
+>- Increases the radius of the callout.
 >- Changes code and code block backgrounds and borders.
 >- Changes sidebar toggle button background.
 >- Changes file explorer background color.
@@ -11,6 +12,7 @@ dg-publish: true
 >- Justifies text to on both sides.
 >- Disables text wrapping on code blocks.
 >- Changes font properties for bold, italic and highlight.
+>- Changes font strike-through to underline in Catppuccin yellow.
 
 ```css
 /* Hide title bar minimize, maximize and close buttons*/
@@ -22,6 +24,11 @@ dg-publish: true
 /* .status-bar {
   display: none !important;
 }*/
+
+/* Callout border radius */
+.callout {
+  border-radius: 10px;
+}
 
 /* Code Block background colour and border */
 .markdown-rendered pre {
@@ -104,5 +111,12 @@ strong, .cm-strong {
 em, .cm-em {
   color: #cdd6f4 !important;
   font-style: italic;
+}
+
+/* Strike through properties ~~strike~~ */
+del, .cm-strikethrough {
+  text-decoration: underline;
+  font-weight: 700;
+  color: #f9e2af;
 }
 ```

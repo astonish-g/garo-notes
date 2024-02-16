@@ -1,9 +1,9 @@
 ---
 dg-publish: true
 ---
--  [[Tricks for the Apps]]
+- [[Tricks for the Apps]]
 - [[Fun terminal apps]]
-- [[Apps to use]] **- this is old**
+- [[Apps to use]] ==- this is old==
 - [[Set-up RClone for Onedrive]]
 - [[How to create .desktop entry for AppImages?]]
 - [[How to install Blender manually in Linux?]]
@@ -15,3 +15,8 @@ dg-publish: true
 - [[ZSH Shell Notes]]
 - [[How to add transparency in NVChad]]
 - [[How to check the battery of bluetooth device?]]
+- [[How to fix bluetooth sleep issues?]]
+- [[How to make Firefox go fullscreen inside the window?]]
+- [[How to make Firefox tab bar and adress bar smaller?]]
+- [[Creating or deleting a new user in Arch Linux]]
+- [[Configuring VIA udev rule in Linux for keyboards]]

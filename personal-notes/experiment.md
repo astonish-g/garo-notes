@@ -20,6 +20,8 @@ So i can type here without really needing a toolbar **because** it looks very ni
 
 this is nice like this, ok! So ==you== have to leave an ==empty line to== gain space. 
 
+~~strike~~ through became underline with my version.
+
 ###### Playing with block quotes:
 
 > [!tip]- Aston Martin
