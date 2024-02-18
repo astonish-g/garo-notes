@@ -12,7 +12,7 @@ dg-home: true
 - 🔄 [[Github Notes]]
 - ⌨️ [[VSCode Notes]]
 - ⌨️ [[NeoVim Notes]]
-- 📒 [[Obsidian]]
+- 📒 [[Obsidian/Obsidian]]
 - ✅ [[To Do's]]
 - ⌨️ [[Coding]]
 - 🖌️[[Color Palettes]]
