@@ -11,5 +11,6 @@ Here you will see all the steps to my settings to imitate the same interface, ho
 - [[Catppuccin Mocha Theme Settings]]
 - [[General CSS snippets]]
 - [[Hide-top-bar CSS snippet]]
+- [[Neon CSS snippet]]
 - [[How to set file properties visible ONLY on the right panel?]]
 - [[Obsidian Custom Hotkeys|Custom Hotkeys]]
