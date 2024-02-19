@@ -8,3 +8,4 @@ Here you can find the notes about Github:
 - [[Setting up .env]]
 - [[Github push script - 'gitup']]
 - [[Github pull script - 'gitdown']]
+- [[Setting up Obsidian Git]]
