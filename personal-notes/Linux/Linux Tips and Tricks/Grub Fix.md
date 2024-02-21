@@ -12,6 +12,14 @@ dg-publish: true
 sudo su
 ```
 
+- Then check your disk partition information with:
+
+```bash
+fdisk -l
+```
+
+- Then mount the boot partition and the Linux partition that you want to fix.
+
 ```bash
 mount /dev/sda4 /mnt
 mount /dev/sda1 /mnt/boot/efi
@@ -20,6 +28,9 @@ mount /dev/sda1 /mnt/boot/efi
 ```bash
 arch-chroot /mnt
 ```
+
+> [!warning] 
+> if your terminal says *bash: arch-chroot: command not found* , try `chroot /mnt` instead. 
 
 ```bash
 grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=EndeavourOS

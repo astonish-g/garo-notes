@@ -20,3 +20,5 @@ dg-publish: true
 - [[How to make Firefox tab bar and adress bar smaller?]]
 - [[Creating or deleting a new user in Arch Linux]]
 - [[Configuring VIA udev rule in Linux for keyboards]]
+- [[Mount and browse other SSD partitions]]
+- [[Adding a custom PATH]]

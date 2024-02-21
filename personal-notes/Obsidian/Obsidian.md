@@ -13,3 +13,4 @@ Here you can find my personal notes about Obsidian.
 - [[Used plug-ins]]
 - [[How to set file properties visible ONLY on the right panel?]]
 - [[Creating alias for internal links in Obsidian]]
+- [[How to fix when Obsidian doesn't show graph view nodes?]]
