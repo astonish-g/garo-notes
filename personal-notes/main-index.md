@@ -16,5 +16,17 @@ dg-home: true
 - ✅ [[To Do's]]
 - ⌨️ [[Coding]]
 - 🖌️[[Color Palettes]]
-- [[experiment]]
+- 🌎 [[Useful Websites]]
+- 🧪 [[experiment]]
+
+> [!info] Remember to check out the new Acer Swift Go 14 when it comes out in April 2024
+> -  **Specs:**
+> 	- **AMD** Ryzen 9 **8945**HS
+> 	- **32** gb ram
+> 	- 14 inch **FHD** touch screen
+> 	- Radeon **780M** gpu
+> 	- **no info** on the **battery size** yet. 
+> 	
+> 	[Link to the article](https://www.laptopmag.com/laptops/acer-goes-all-in-on-amd-ryzen-8040-and-ryzen-ai-with-new-swift-laptops)
+ 
 
