@@ -18,6 +18,7 @@ dg-publish: true
 - [[How to fix bluetooth sleep issues?]]
 - [[How to make Firefox go fullscreen inside the window?]]
 - [[How to make Firefox tab bar and adress bar smaller?]]
+- [[How to disable webp in Firefox?]]
 - [[Creating or deleting a new user in Arch Linux]]
 - [[Configuring VIA udev rule in Linux for keyboards]]
 - [[Mount and browse other SSD partitions]]
