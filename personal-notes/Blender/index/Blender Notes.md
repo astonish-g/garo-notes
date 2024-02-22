@@ -27,4 +27,4 @@ dg-publish: true
 - [[How to seperate face, edge, vertexes...etc?]]
 
 ##### Project Notes
-- [[Pra Shoes Notes]]
+- [[Lydia Shoes Notes]]
