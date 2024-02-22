@@ -25,3 +25,6 @@ dg-publish: true
 - [[How to change the units of a scene in Blender?]]
 - [[How to quickly delete faces, edges and vertexes?]]
 - [[How to seperate face, edge, vertexes...etc?]]
+
+##### Project Notes
+- [[Pra Shoes Notes]]
