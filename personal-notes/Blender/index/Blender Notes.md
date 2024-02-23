@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+#blender
 - [[How to install Blender manually in Linux?]]
 - [[Useful Hotkeys]]
 - [[Useful quick tips]]

@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+#blender
 ##### My method of installing:
 >[!tip] New Installation Method
 >Below is the new method that I use to **install Blender**.
