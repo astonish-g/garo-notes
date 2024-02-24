@@ -26,6 +26,8 @@ dg-home: true
 > 	- 14 inch **FHD** touch screen
 > 	- Radeon **780M** gpu
 > 	- **no info** on the **battery size** yet. 
+> 	 
+> ==Seems like it has only 64 wh battery.==
 > 	
 > 	[Link to the article](https://www.laptopmag.com/laptops/acer-goes-all-in-on-amd-ryzen-8040-and-ryzen-ai-with-new-swift-laptops)
  
