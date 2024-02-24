@@ -1,4 +1,8 @@
 ---
 dg-publish: true
 ---
-[[Placing those round pins on the surface]]
+##### Questions & Solutions
+- [[Placing those round pins on the surface]]
+##### Personal Notes
+- [[1.0 - beginning]]
+
