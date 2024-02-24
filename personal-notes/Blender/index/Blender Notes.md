@@ -3,6 +3,7 @@ dg-publish: true
 ---
 #blender
 - [[How to install Blender manually in Linux?]]
+- [[How to back-up Blender config files?]]
 - [[Useful Hotkeys]]
 - [[Useful quick tips]]
 - [[Shrinkwrap Projection]]

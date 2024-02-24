@@ -3,6 +3,7 @@ dg-publish: true
 ---
 >[!tip] Below are the snippets that I am using right now:
 >- Hides minimize/maximize and close buttons.
+>- Frees up the space reserved for the minimize/maximize and close buttons.
 >- Increases the radius of the callout.
 >- Changes code and code block backgrounds and borders.
 >- Changes sidebar toggle button background.
@@ -18,6 +19,11 @@ dg-publish: true
 /* Hide title bar minimize, maximize and close buttons*/
 .mod-linux .titlebar-button-container, .mod-windows .titlebar-button-container {
   display: none;
+}
+
+/* Free up the space that was reserved for he minimize, maximize and close buttons*/
+.is-hidden-frameless:not(.is-fullscreen) .workspace-tabs.mod-top-right-space .workspace-tab-header-container {
+  padding-right: 10px;
 }
 
 /* Hide bottom status bar */
