@@ -23,7 +23,7 @@ You should enter the command below to put the **new user**, ==garoi3== to the **
 > The process given below includes several commands to enter. A single mistake will lead to fauly or indefinite results.
 
 ```bash
-echo "garoi3 ALL= (ALL)ALL" &gt;&gt; /etc/subdoers
+echo “garoi3 ALL= (ALL)ALL” &gt;&gt; /etc/subdoers
 ```
 
 After this command, your new user, in this case **garoi3**, should be the part of the sudo Group.
