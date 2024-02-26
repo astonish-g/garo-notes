@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+> [!tip] Install arch-chroot-build
+> Install **arch-chroot-build** package before doing this process. Then continue the process like below, and this way you can do it even without live usb if you have a second partition. 
 
 **Fixing corrupted grub:**
 
