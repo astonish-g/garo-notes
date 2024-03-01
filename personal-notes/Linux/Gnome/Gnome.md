@@ -1,4 +1,5 @@
 ---
 dg-publish: true
 ---
-[[Useful Gnome Shell Extensions]]
+- [[Useful Gnome Shell Extensions]]
+- [[How to set super+right click mouse drag for window resizing]]

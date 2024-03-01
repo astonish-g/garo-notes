@@ -11,6 +11,6 @@ Here you can find my personal notes about Obsidian.
 - [[CSS for Digital Garden]]
 - [[Fine grained token]]
 - [[Used plug-ins]]
-- [[How to set file properties visible ONLY on the right panel?]]
+- [[How to set file properties visible ONLY on the right panel]]
 - [[Creating alias for internal links in Obsidian]]
-- [[How to fix when Obsidian doesn't show graph view nodes?]]
+- [[How to fix when Obsidian doesn't show graph view nodes]]
