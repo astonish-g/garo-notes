@@ -20,11 +20,11 @@ So i can type here without really needing a toolbar **because** it looks very ni
 
 this is nice like this, ok! So ==you== have to leave an ==empty line to== gain space. 
 
-~~strike~~ through became underline with my version.
+~~strike~~ through became underline with my version. Deneme iki
 
 ###### Playing with block quotes:
 
-> [!tip]- Aston Martin
+> [!tip]- Aston Martin V8 Vantage
 > Here's a callout block.
 > 
 > It supports **Markdown** , internal linking [[Blender Notes]] , and images such as this lovely Aston Martin.
