@@ -3,6 +3,8 @@ dg-publish: true
 ---
 > [!tip] Sticky Scroll 
 > When you are **scrolling down** your code, you can see **nested** current **ellement's parent stick** to the **top**. It may be annoying especially if you are searching for a minimal look and feel on your VSCode.
+
+![img](https://i.imgur.com/vzOLQBa.png)
 ###### How to disable this function?
 1. Go to `File>Preferences>Settings`
 2. Search for `sticky scroll`
