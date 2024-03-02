@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+- [[Lock screen and switch off the monitor on idle]]
 - [[Dimming the inactive display]]
 - [[Change wallpaper every X minutes]]
 - [[Add animated Hyprland window border gradiets]]

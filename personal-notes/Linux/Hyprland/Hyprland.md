@@ -8,3 +8,6 @@ dg-publish: true
 [[Fixing my Hyprland config file]]
 [[Hyprland How to create different window class]]
 [[Hyprland border colour rgb]]
+[[Swaylock]] 
+[[Swayidle]]
+[[Hyprland Ecosystem apps to install]]

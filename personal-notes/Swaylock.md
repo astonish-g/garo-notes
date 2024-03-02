@@ -1,12 +1,37 @@
 ---
 dg-publish: true
 ---
+> [!tip] Swaylock-effects-git
+> Instead of `swaylock`, install `swaylock-effects-git` fork because it has cooler effects that you can use.
 ##### How to install?
-Install it with `yay swalock` from the **AUR** packages.
+Install it with `yay swaylock-effects-git` from the **AUR** packages.
+##### Useful Info:
+I think that you have to create a config file, with the entries that you see in the [Swaylock Manual Page](https://man.archlinux.org/man/swaylock.1)
+[Swaylock Effects Github Page](https://github.com/mortie/swaylock-effects) 
+
+> [!tip] Bash Syntax Highlight
+> If VSCode doesn't recognize the language of the config file and does NOT highlight the colours. You can add `#!/bin/bash/` to the beginning of the file and then your config file will be highlighted correctly. 
+
+> [!tip] Make a [[Wallpaper Script]]
+> To make Swaylock work nicer, make a wallpaper script, and make that script copy the curren used wallpaper into `~/.cache/current_wallpaper.jpg` so this way, you can point swaylock to use it without setting up the image in the config file manually.
+> 
+> [Watch this video](https://www.youtube.com/watch?v=ptmiPG_V4u8&t=601s) for more info
 
 ##### How to use?
-I think that you have to create a config file, with the entries that you see in the [Swaylock Manual Page](https://man.archlinux.org/man/swaylock.1)
+- Create the config **directory** `~/.swaylock`.
+- Create it **config file** and call it ==config==.
+- Then **go** to the [swaylock man page](https://man.archlinux.org/man/swaylock.1).
+- By reading the manual, **add** the **entries** that you **want** with their properties to the config file, one on top of the other.
+- For **extended features** coming with the **swaylock-effects-git** fork, go to the [Github page](https://github.com/mortie/swaylock-effects) of this fork.
+- Once done, to **test** it, **save** it and in your **terminal**, ==run:== `swaylock` command.
 
+> [!note] 
+> You should use `=` when entering the values for the properties/entries. I did not try with `:` but I know that it works with `=`.
+> 
+> For example if in the *manual page* it is written as:
+>  `--indicator-radius <radius>`
+>  then you should write it in your config file as: 
+>  `indicator-radius=150`. 
 ##### Where should the config file be placed?
 - $HOME/.swaylock/config
 - XDG_CONFIG_HOME/swaylock/config
