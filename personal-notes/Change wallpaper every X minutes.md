@@ -45,6 +45,6 @@ After doing all this, call the script from the **hyprland.conf**
 ```bash
 ...
 exec-once = swww init
-exec-once = ~/.config/hypr/scripts/swww-random ~/.config/hypr/background
+exec-once = ~/.config/hypr/scripts/swww-random ~/.config/hypr/backgrounds
 ...
 ```
