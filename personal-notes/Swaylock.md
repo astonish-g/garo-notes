@@ -65,3 +65,6 @@ indicator
 clock
 text-color=blue
 ```
+
+##### Useful links to study:
+- [Lock screen config in sway](https://code.krister.ee/lock-screen-in-sway/)
