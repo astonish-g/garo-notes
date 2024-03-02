@@ -29,6 +29,7 @@ swayidle -w \\
 For more detailed info on the useage of **swayidle**, check the [man page](https://github.com/swaywm/swayidle/blob/master/swayidle.1.scd)
 
 ##### Useful links to study:
+- [Arch-wiki Sway page](https://wiki.archlinux.org/title/Sway)
 - [How to prevent swayidle from executaion while watching a movie](https://stackoverflow.com/questions/68694093/how-to-prevent-swayidle-from-execution-while-watching-a-film)
 
 

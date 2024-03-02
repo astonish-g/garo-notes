@@ -14,7 +14,7 @@ The script should do these in this order:
 	- [ ] kitty
 	- [ ] waybar *(Install the waybar-git version for [[waybar upower module]]*
 	- [ ] wofi
-	- [ ] ulauncher
+	- [ ] ulauncher - using wofi instead
 	- [ ] swaybg
 	- [ ] feh
 	- [ ] grim
@@ -23,7 +23,7 @@ The script should do these in this order:
 	- [ ] nemo-fileroller
 	- [ ] nwg-look (for theme changing on wayland)
 	- [ ] swaylock - for locking the screen
-	- [ ] swayidle - for communicating the idle time
+	- [ ] swayidle - Idle management daemon to handle idlingsessions.
 	- [ ] swww - to change wallpapers in x minutes
 - [ ] It should ask **one by one** if you **want** ==VSCode, Blender, Discord and BetterDiscord== installed.
 - [ ] **Check** the **~/.config** folder for the ~/.config folders that **it will change**, such as ==alacritty, hypr, waybar==..etc.
