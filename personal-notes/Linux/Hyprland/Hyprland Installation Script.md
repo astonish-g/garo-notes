@@ -22,7 +22,6 @@ The script should do these in this order:
 	- [ ] nemo
 	- [ ] nemo-fileroller
 	- [ ] nwg-look (for theme changing on wayland)
-	- [ ] swaylock - *for locking the screen* ==MAY NOT NEED IT UNLESS YOU WANT TO LOCK THE SCREEN==
 	- [ ] swayidle - *Idle management daemon to handle idling sessions.*
 	- [ ] swww - *to change wallpapers in x minutes*
 - [ ] It should ask **one by one** if you **want** ==VSCode, Blender, Discord and BetterDiscord== installed.
