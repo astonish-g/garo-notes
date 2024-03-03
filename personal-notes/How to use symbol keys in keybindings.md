@@ -9,13 +9,17 @@ By default, in your **Hyprland** config file, if you use symbol keys in keybindi
 ```bash
 bind = $mainMod, -, exec, ~/.scripts/smallgaps.sh
 ```
-may not work. Instead you should find the key code for that symbol. Instead, you have to write it this way:
+may not work. Instead you should find the **key code** or the **symbol name** for that symbol. Instead, you have to write it this way:
 ```bash
 bind = $mainMod, code:20, exec, ~/.scripts/smallgaps.sh
 ```
+or
+```bash
+bind = $mainMod, minus, exec, ~/.scripts/smallgaps.sh
+```
 Now this would accept the keybinding and work as intended.
 
-##### How to find the key code?
+##### How to find the key code or the name?
 - **Launch** the app called **wev** in your **terminal**.
 - It will open a **checkered** window as well, I don't know what it is used for.
 - **Press** the key that you want to **find** out the **code** for.
@@ -27,10 +31,14 @@ Now this would accept the keybinding and work as intended.
 [14:     wl_keyboard] key: serial: 14338; time: 6744573; key: 20; state: 0 (released)
                       sym: minus        (45), utf8: ''
 ```
-Above, the word **next** to the **output** ==sym== is the **key** that you have **pressed**. So in this case, it is the **minus** key. 
+Above, the word **next** to the **output** ==sym== is the **name of the key** that you have **pressed**. So in this case, it is the **minus** key. 
 
 The **number** next to the **output** ==key== is the **key code** that you can **use** in your **Hyprland** config file.  So here's the **result:**
 
 ```bash
 code:20
+```
+or for the **name:**
+```bash
+minus
 ```
