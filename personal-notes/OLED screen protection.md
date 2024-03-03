@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 - [[Simplest Solution - Turn off the display on idle]]
+- [[Simple Solution - Dim display and later turn off display on idle]]
 - [[Lock screen and switch off the monitor on idle]]
 - [[Dimming the inactive display]]
 - [[Change wallpaper every X minutes]]

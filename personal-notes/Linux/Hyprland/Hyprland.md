@@ -11,3 +11,4 @@ dg-publish: true
 [[Swaylock]] 
 [[Swayidle]]
 [[Hyprland Ecosystem apps to install]]
+[[How to use symbol keys in keybindings]]

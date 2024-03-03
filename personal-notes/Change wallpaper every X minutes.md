@@ -48,3 +48,9 @@ exec-once = swww init
 exec-once = ~/.config/hypr/scripts/swww-random ~/.config/hypr/backgrounds
 ...
 ```
+##### An other option from this [link](https://forum.garudalinux.org/t/change-wallpaper-on-sway/30377/2):
+**Open** your **Hyprland** configuration file and add this entry to **your** configuration file:
+```bash
+exec-once = sleep 1; swww init; sleep 1; while true; do swww img /home/garo/Pictures/catppuccin-wallpapers/$(ls /home/garo/Pictures/catppuccin-wallpapers | shuf -n 1) --transition-fps 30 --transition-type=wipe --transition-bezier=0,0.84,1,1; sleep 600; done
+```
+The **config** above will **change** the **wallpaper every 10 minutes**. You may need to **change** the **directories** if you have a different user name.

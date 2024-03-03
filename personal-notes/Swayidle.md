@@ -13,6 +13,17 @@ Install it with `yay swayidle`
 - $HOME/swayidle/config
 
 ##### How to use?
+###### Using it in Hyprland config method (my preferred one):
+Check the manual page for the available commands to use with swayidle. Then **create** the **entry** in the **hyprland config** file. These are the lines that I use on my config file:
+
+```bash
+# Start swayidle lockscreen script - 30 seconds for dim and 120 seconds for display off
+exec-once = swayidle -w timeout 30 'brightnessctl set 0%' resume 'brightnessctl set 30%'
+exec-once = swayidle -w timeout 120 'hyprctl dispatch dpms off' resume 'hyprctl dispatch dpms on'
+```
+
+Check [[Simple Solution - Dim display and later turn off display on idle|this link]] for more information about what it does.
+###### Using it with a script that executes in Hyprland config method:
 You have to create a **config** file with the entries that you see in the swayidle manual page. You can also **create** a **script** for swayidle which executes **different commands** when the **set times** are reached. An **example** of ==swayidle script== which I am planning to use:
 ```bash
 #!/bin/bash
