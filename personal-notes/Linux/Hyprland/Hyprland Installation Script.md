@@ -24,6 +24,7 @@ The script should do these in this order:
 	- [ ] nwg-look (for theme changing on wayland)
 	- [ ] swayidle - *Idle management daemon to handle idling sessions.*
 	- [ ] swww - *to change wallpapers in x minutes*
+	- [ ] catppuccinifier
 - [ ] It should ask **one by one** if you **want** ==VSCode, Blender, Discord and BetterDiscord== installed.
 - [ ] **Check** the **~/.config** folder for the ~/.config folders that **it will change**, such as ==alacritty, hypr, waybar==..etc.
 - [ ] If it **finds any** then it should **create** a ==config.bak== folder in your **~/Documents** folder with all those folders **copied** in it.

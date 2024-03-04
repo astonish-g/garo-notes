@@ -23,3 +23,4 @@ dg-publish: true
 - [[Configuring VIA udev rule in Linux for keyboards]]
 - [[Mount and browse other SSD partitions]]
 - [[Adding a custom PATH]]
+- [[Easy way to catppuccinify your wallpapers]]
