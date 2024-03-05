@@ -24,3 +24,4 @@ dg-publish: true
 - [[Mount and browse other SSD partitions]]
 - [[Adding a custom PATH]]
 - [[Easy way to catppuccinify your wallpapers]]
+- [[How to use content-aware fill for free on Linux]]
