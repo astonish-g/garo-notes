@@ -18,6 +18,7 @@ dg-home: true
 - 🖌️[[Color Palettes]]
 - 🌎 [[Useful Websites]]
 - 🧪 [[experiment]]
+- 🖥️ [[SFFPC build ideas]]
 
 > [!info] Remember to check out the new Acer Swift Go 14 when it comes out in April 2024
 > -  **Specs:**
