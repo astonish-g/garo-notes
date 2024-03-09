@@ -10,6 +10,7 @@ dg-publish: true
 - [[Logitech Buttons ID Linux]]
 - [[Grub Fix]]
 - [[EndeavourOS Fix Grub]]
+- [[How to set the OS Prober for dualboot]]
 - [[GTK Themeing]]
 - [[Fix polybar currency error]]
 - [[ZSH Shell Notes]]
