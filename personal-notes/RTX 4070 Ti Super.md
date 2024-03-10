@@ -31,6 +31,7 @@ tags:
 - Even smaller foot-print than the 3 fan version.
 - Will fit most of the sffpc cases.
 - It may give you more cooling space for the CPU.
+- Has a **white version** as well. ==932 €== on [Amazon](https://www.amazon.it/MSI-GeForce-Super-Ventus-White/dp/B0CSDN1GS8/ref=sr_1_7?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2U9XSD42DD3Y1&dib=eyJ2IjoiMSJ9.rOPWWnUq1ZiiHk271bLWhM9tlEPPUjOUESr97F6GPBbCtyPbyFy4hw1bYPd9iNmrBJEybMdN5KKk-nplEivGh6QROSLayFh-uaV8remLmd51GfdFR8G2eDGft1nqqL7hijqC56n4FxayqBkxxrtK7vbTG9CFVsInwFdzarjCfmiWXcaeyeF0FusG_AOqD2CgOiHa0UkDYfOuUm-hGK8b2gBaSfb5U4dFNrumm3VuKb_8yUt1lFUWBQN23KaStK2JeBVpCQOVywBUv64wWz9HhO8zHRyF28TnoXV5OkwXGDA.tmPz-hjajMg0rIEnXD07EBrYeB6QPDw1eVIftd_Ybgk&dib_tag=se&keywords=rtx+4070+super+ventus&qid=1710064195&sprefix=rtx+4070+super+ventus%2Caps%2C145&sr=8-7&ufe=app_do%3Aamzn1.fos.9d4f9b77-768c-4a4e-94ad-33674c20ab35)
 
 ###### Links:
 - [MSI Page - Overview](https://www.msi.com/Graphics-Card/GeForce-RTX-4070-Ti-SUPER-16G-VENTUS-2X-OC/Overview)
