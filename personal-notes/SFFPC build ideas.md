@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+tags:
+  - sffpc
 ---
 Here I will be collecting all the parts and options that I am considering for the SFFPC build. 
 ##### Parts: 

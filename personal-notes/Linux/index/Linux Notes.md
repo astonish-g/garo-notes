@@ -12,3 +12,4 @@ Here you can find my notes about [[Linux]] operating system.\
 - 🖥️ [[OLED screen protection]]
 - ⌨️ [[Useful Linux Commands]]
 - 🌐 [[Useful Linux Websites]]
+- ☢️ [[Troubleshooting]]
