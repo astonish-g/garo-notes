@@ -42,3 +42,8 @@ tags:
 ###### Links:
 - [MSI Page - Overview](https://it.msi.com/Graphics-Card/GeForce-RTX-4070-SUPER-12G-VENTUS-2X-OC/Overview)
 - [MSI Page - Specs](https://it.msi.com/Graphics-Card/GeForce-RTX-4070-SUPER-12G-VENTUS-2X-OC/Specification)
+
+---
+
+##### Useful Links:
+- [Hardware Planet Prices](https://www.hardware-planet.it/ricerca?controller=search&s=rtx+4070+super)

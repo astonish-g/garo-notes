@@ -30,3 +30,6 @@ tags:
 It is advised to underclock / undervolt the GPU slightly so it mayu work even 10 Celcius degrees lower without almost losing any performance. This is a subject that I should check and learn more and see: 
 - how it is possible on Linux as well?
 - or is it done on BIOS level?
+
+> [!warning]
+> Prices seems to be nicer, such as on MSI 4070 Ti Super Ventus 2x, 832 € instead of 894 € on sites such as [hardware-planet.it](https://www.hardware-planet.it/schede-video-nvidia/95548-vendita-schede-video-nvidia-msi-geforcer-rtx-4070-ti-super-16gb-ventus-2x-oc-v513-615r-4711377171229.html)
