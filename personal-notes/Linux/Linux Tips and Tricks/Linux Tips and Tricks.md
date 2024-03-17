@@ -26,3 +26,4 @@ dg-publish: true
 - [[Adding a custom PATH]]
 - [[Easy way to catppuccinify your wallpapers]]
 - [[How to use content-aware fill for free on Linux - PIXLR]]
+- [[How to mask power-profile-daemon for installing TLP]]

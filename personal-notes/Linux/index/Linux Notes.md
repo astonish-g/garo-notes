@@ -10,6 +10,7 @@ Here you can find my notes about [[Linux]] operating system.\
 - 🏹 [[Arch]]                                                                             
 - 🍥 [[Gnome]]
 - 🖥️ [[OLED screen protection]]
+- [[Power Saving]]
 - ⌨️ [[Useful Linux Commands]]
 - 🌐 [[Useful Linux Websites]]
 - ☢️ [[Troubleshooting]]

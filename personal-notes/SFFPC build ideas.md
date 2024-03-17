@@ -15,6 +15,7 @@ Here I will be collecting all the parts and options that I am considering for th
 - [[Storage]]
 - [[Custom Cables]]
 - [[Thermal Paste]]
+- [[Final weight info]]
 ##### Average Subtotal:
 ==1500==
 
